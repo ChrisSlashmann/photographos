@@ -1,0 +1,15 @@
+.about {
+  padding: 10px 94px 40px 50%;
+}
+
+.about__text {
+  margin: 0;
+  font-family: 'Rubik';
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 36px;
+}
+
+.about__text:not(:last-of-type) {
+  margin-bottom: 14px;
+}

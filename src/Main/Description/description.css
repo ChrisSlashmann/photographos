@@ -1,0 +1,12 @@
+.description {
+  padding: 67px 94px 45px;
+}
+
+.description__text {
+  margin: 0;
+  font-family: 'Oranienbaum';
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 67px;
+  letter-spacing: 1.4px;
+}

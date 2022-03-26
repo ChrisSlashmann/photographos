@@ -1,0 +1,33 @@
+.footer {
+  padding: 40px 94px 40px;
+}
+
+.footer__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 700px;
+  margin: 0 auto;
+  list-style: none;
+}
+
+.footer__list-item {
+  border-bottom: 1px solid #000;
+}
+
+.footer__list-link {
+  color: #000;
+  font-family: 'Rubik';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  text-decoration: none;
+}
+
+.footer__list-link:hover,
+.footer__list-link:focus,
+.footer__list-link:active {
+  outline: 1px solid #000;
+  outline-offset: 2px;
+}
